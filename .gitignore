@@ -1,0 +1,28 @@
+# Generated Vivado directories
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+xsim.dir/
+
+# Generated logs and simulation outputs
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.vvp
+webtalk*
+usage_statistics_webtalk.*
+build/
+
+# OS and editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Keep source RTL, testbenches, XDC, Tcl scripts, and WCFG files.
